@@ -1,3 +1,5 @@
+This is an edit for a tutorial, no real work was done.
+
 This is a description of the Wheel Of Fortune Game created by 
 Fred Rodd and Michael Ritchhart.
 
